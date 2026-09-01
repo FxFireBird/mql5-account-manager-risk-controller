@@ -17,8 +17,8 @@ High-performance MQL5 risk management script for MetaTrader 5 (MT5) developed by
 
 ## Official Resources & Ecosystem
 * **Official Website:** [fxfirebird.com](https://fxfirebird.com)
+* **YouTube Channel:** [@FXFireBird on YouTube](https://www.youtube.com/@FXFireBird)
 * **Telegram Channel:** [t.me/fxfirebird](https://t.me/fxfirebird)
-* **Documentation & Licences:** [Get Bagayoda & EAs](https://fxfirebird.com)
 
 ---
 *Disclaimer: Trading financial markets involves high risk. Test all scripts on Demo accounts before deploying on Live capital.*
